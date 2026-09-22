@@ -6,20 +6,17 @@
 <!-- 2. BOTÕES DE REDES SOCIAIS (Fundo Sombra #0D1C14 + Ícones Laranja #E69138) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU_PERFIL" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1C14?style=for-the-badge&logo=linkedin&logoColor=E69138" alt="LinkedIn" />
-  </a>
-  <a href="https://pinterest.com/SEU_PERFIL" target="_blank">
-    <img src="https://img.shields.io/badge/PINTEREST-0D1C14?style=for-the-badge&logo=pinterest&logoColor=E69138" alt="Pinterest" />
+    <img src="https://img.shields.io/badge/LINKEDIN-4E8765?style=for-the-badge&logo=linkedin&logoColor=E69138" alt="LinkedIn" />
   </a>
   <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0D1C14?style=for-the-badge&logo=gmail&logoColor=E69138" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-D4E8DC?style=for-the-badge&logo=gmail&logoColor=E69138" alt="Gmail" />
   </a>
 </p>
 
 <hr />
 
 <!-- 3. TECNOLOGIAS (Fundo Verde-Floresta #1A3C2A + Ícones Laranja #E69138 e Verde-Luz #A1D1B7) -->
-<h3>⚽ Technologies</h3>
+ <img src="./assets/pokball.svg" width="50px"/> <h3 align="center">  Technologies</h3>
 
 <p align="center">
   <!-- Ferramentas & Base -->
@@ -45,7 +42,7 @@
 <hr />
 
 <!-- 4. ESTATÍSTICAS (Fundo Black #00000 + Detalhes Laranja #E69138 + Texto Menta #D4E8DC) -->
-<h3>⚽ Statistics</h3>
+<h3 align="center">⚽ Statistics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Queioz754&show_icons=true&bg_color=000000&title_color=E69138&text_color=D4E8DC&icon_color=E69138&border_color=0D1C14" alt="GitHub Stats" width="49%" />
@@ -55,7 +52,7 @@
 <hr />
 
 <!-- 5. ABOUT ME -->
-<h3>⚽ About Me</h3>
+<h3 align="center">⚽ About Me</h3>
 
 <table border="0">
   <tr>
@@ -71,7 +68,7 @@
 <hr />
 
 <!-- 6. HOBBIES & GOALS -->
-<h3>⚽ Hobbies & Goals</h3>
+<h3 align="center">⚽ Hobbies & Goals</h3>
 
 <table border="0">
   <tr>
