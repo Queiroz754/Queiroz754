@@ -5,11 +5,11 @@
 
 <!-- 2. BOTÕES DE REDES SOCIAIS -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_PERFIL" target="_blank">
+  <a href="https://www.linkedin.com/in/allanbqueiroz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1C14?style=for-the-badge&logo=linkedin&logoColor=E69138" alt="LinkedIn" />
   </a>
   <a href="mailto:allan754@outlook.com">
-    <img src="https://img.shields.io/badge/GMAIL-0D1C14?style=for-the-badge&logo=gmail&logoColor=E69138" alt="Gmail" />
+    <img src="https://img.shields.io/badge/OUTLOOK-0D1C14?style=for-the-badge&logo=microsoftoutlook&logoColor=E69138" alt="Outlook" />
   </a>
 </p>
 
