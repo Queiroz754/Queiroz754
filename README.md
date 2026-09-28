@@ -57,7 +57,7 @@
 
 <p>
   <img src="./assets/chibi.png" width="333px" align="left" alt="Avatar" />
-  Hello! My name is <b>Allan B. de Queiroz</b>, and I am a Web Develop student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>JavaScript, React.js, C#, and SQL</b>, focusing on building robust applications and continuously growing within the tech industry.
+  Hello! My name is <b>Allan B. de Queiroz</b>, and I am a Web Develop student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>TypeScript, React.js, C#, and SQL</b>, focusing on building robust applications and continuously growing within the tech industry.
 </p>
 
 <br clear="all" />
