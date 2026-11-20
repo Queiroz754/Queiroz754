@@ -69,7 +69,6 @@
 
 <p>
   <img src="./assets/rowlet.png" width="333px" align="right" alt="Pokémon" />
-  Software Engineering student at Fametro.
   <br /><br />
   When I'm away from the keyboard, I love playing acoustic guitar, exploring the Pokémon world, and spending time as a proud uncle to my 3 awesome kids. Balancing code, music, and family!
 </p>
